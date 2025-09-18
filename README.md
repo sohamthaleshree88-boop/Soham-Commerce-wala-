@@ -174,29 +174,4 @@ Here’s the full code (you just need to upload it to GitHub Pages / Netlify):
 </html>
 
 
----
-
-✅ Next steps for you to make it live as a website with your name:
-
-1. Copy the code above into a file called index.html.
-
-
-2. Go to GitHub → create a free account.
-
-
-3. Make a new repository called soham-commerce-wala.
-
-
-4. Upload the index.html file.
-
-
-5. In repo Settings → Pages → Enable GitHub Pages → choose main branch.
-
-
-6. Your live link will be:
-https://your-username.github.io/soham-commerce-wala/
-
-
-
-👉 Do you want me to create the step-by-step GitHub upload tutorial with screenshots for you, so you can follow easily?
 
